@@ -1,0 +1,8 @@
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\bin\Debug\Pima.exe
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\bin\Debug\Pima.pdb
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\bin\Debug\Pima.xml
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\obj\x86\Debug\Pima.Resources.resources
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\obj\x86\Debug\Pima.vbproj.GenerateResource.Cache
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\obj\x86\Debug\Pima.exe
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\obj\x86\Debug\Pima.xml
+C:\Users\frienz\Desktop\Dev\Pima1\Pima\Pima\obj\x86\Debug\Pima.pdb
